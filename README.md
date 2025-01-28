@@ -1,4 +1,4 @@
-# Planilhas-Inteligentes-e-IA
+# Planilhas-Inteligentes 
 
 ## Descrição
 Este Dashboard contem dados fictícios gerados com IA.  
